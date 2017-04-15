@@ -1,0 +1,49 @@
+
+!
+!! URxvt Settings 
+!
+
+URxvt.scrollBar: false
+URxvt*font: xft:monospace:size=14
+
+
+URxvt*background:    #0f0a13
+URxvt*foreground:    #9aa8a9
+URxvt*cursorColor:  #4a3139
+
+URxvt*color0: #1c0c18
+URxvt*color8: #1a1e31
+
+URxvt*color1: #873e54
+URxvt*color9: #bc3962
+
+URxvt*color2: #2a5b6f
+URxvt*color10: #67808c
+
+URxvt*color3: #d83746
+URxvt*color11: #fc5d7f
+
+URxvt*color4: #3e3a4d
+URxvt*color12: #685589
+
+URxvt*color5:  #422138
+URxvt*color13: #8b4779
+
+URxvt*color6: #164569
+URxvt*color14: #38718d
+
+URxvt*color7:  #d4b9d7
+URxvt*color15: #fbdeff
+
+!
+!! Rofi Settings
+!
+
+! ------------------------------------------------------------------------------
+! ROFI Color theme
+! ------------------------------------------------------------------------------
+rofi.color-enabled: true
+rofi.color-window: #1a1221, argb:04c9882, argb:0931717
+rofi.color-normal: argb:0edb51e, #4c9882, argb:0beb498, #4c9882, #d4b9d7
+rofi.color-active: argb:0615772, #38718d, argb:0eee8d5, #38718d, #d4b9d7
+rofi.color-urgent: argb:0fdf6e3, #8b4779, argb:0eee8d5, #8b4779, #d4b9d7
